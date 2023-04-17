@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S1gzYeWsV22tReSXv2HTBjsT8avNJ7OcJGAv0RkesiMA0B4MhX8R0A3Qcy67MaZrU2QDFn9fzYjvv02HsDgyoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nniket\\CodeCommit\\Test Materials\\testProject\\NoDaddyJokesNN\\NoDaddyJokesNN\\NoDaddyJokesNN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nniket\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
